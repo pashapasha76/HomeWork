@@ -56,3 +56,5 @@ python python/setup.py build_ext --inplace
 ```
 python python/gui_pl.py
 ```
+
+Проект выполняется в рамках учебного задания.
